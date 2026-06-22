@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.apple.mobilephone</string>
+                <string>com.apple.tips</string>
                 <key>bundle-version</key>
                 <string>4.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Điện thoại</string>
+                <string>Tips</string>
             </dict>
         </dict>
     </array>
