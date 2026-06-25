@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ccom.hiepsupport.filza</string>
+				<string>com.hiepsupport.filza</string>
 				<key>bundle-version</key>
 				<string>4.0</string>
 				<key>kind</key>
