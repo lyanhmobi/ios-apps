@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/lyanhmobi/ios-apps/releases/download/v1.0/esign_Sign.ipa</string>
+					<string>https://github.com/lyanhmobi/ios-apps/releases/download/v1.0/Filza_Signed_Moi.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.hiepsupport.filza</string>
 				<key>bundle-version</key>
-				<string>8.0.50</string>
+				<string>4.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>esign_Sign</string>
+				<string>Filza</string>
 			</dict>
 		</dict>
 	</array>
