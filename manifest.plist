@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cjp.naver.line</string>
+				<string>jp.naver.line</string>
 				<key>bundle-version</key>
 				<string>26.8.1</string>
 				<key>kind</key>
